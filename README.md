@@ -4,7 +4,7 @@
 Performance analysis of state-of-the-art flow control techniques of data-link layer in wired networks using Matlab.
 
 **Member:** <br>
-Vikyath Shetty B (16CO140) <vikyathshetty11@gmail.com>  <br>
+Vikyath Shetty B  <vikyathshetty11@gmail.com>  <br>
 
 **Abstract:** <br>
 In data communications, flow control is the process of managing the rate of data transmission between two nodes to prevent a fast sender from overwhelming a slow receiver. It provides a mechanism for the receiver to control the transmission speed, so that the receiving node is not overwhelmed with data from transmitting node. 
