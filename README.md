@@ -1,4 +1,4 @@
-## Data Communications (CO250): Mini Project
+
 
 **Title:** <br>
 Performance analysis of state-of-the-art flow control techniques of data-link layer in wired networks using Matlab.
