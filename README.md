@@ -3,7 +3,7 @@
 **Title:** <br>
 Performance analysis of state-of-the-art flow control techniques of data-link layer in wired networks using Matlab.
 
-**Member:** <br>
+**By:** <br>
 Vikyath Shetty B  <vikyathshetty11@gmail.com>  <br>
 
 **Abstract:** <br>
